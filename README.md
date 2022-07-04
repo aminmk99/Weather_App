@@ -1,6 +1,10 @@
 # weather_app
 
-A new Flutter project.
+In this Flutter project, the api of the openweather site is used.
+Also, the http package is used to parse the api
+
+![Screen-Shot](images/home_page_screen.png)
+![Screen-Shot](images/result_screen.png)
 
 ## Getting Started
 

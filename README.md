@@ -3,8 +3,8 @@
 In this Flutter project, the api of the openweather site is used.
 Also, the http package is used to parse the api
 
-![Screen-Shot](images/home_page_screen.png)
-![Screen-Shot](images/result_screen.png)
+<img src="images/home_page_screen.png" width="400" height="800">
+<img src="images/result_screen.png" width="400" height="800">
 
 ## Getting Started
 
